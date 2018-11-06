@@ -1,4 +1,4 @@
-F-Nick,L-Node,R-Node,L-ESAM-Port,R-ESAM-Port,L-MLA-3-Port,R-MLA-3-Port,L-SLA,R-SLA,L-WSS-Port,R-WSS-Port,L-OSC-Port,R-OSC-Port
+FiberName,L-Node,R-Node,L-ESAM-Port,R-ESAM-Port,L-MLA-3-Port,R-MLA-3-Port,L-SLA,R-SLA,L-WSS-Port,R-WSS-Port,L-OSC-Port,R-OSC-Port
 KA-BLR-BID-KA-BLR-JYN-F1,JYN,BID,1-14-8,3-14-8,1-13-8,3-13-8,1-12-8,3-12-8,1-10-21,3-10-21,1-14-2,3-1-2
 KA-BLR-VNG-KA-BLR-JYN-F1,JYN,VNG,2-14-8,1-7-8,2-13-8,1-8-8,null,null,2-11-21,1-9-21,2-14-2,1-7-2
 KA-BLR-DME-KA-BLR-JYN-F1,JYN,DME,3-14-8,1-7-8,3-13-8,1-8-8,null,null,3-11-21,1-9-21,3-14-2,2-7-2
@@ -9,13 +9,3 @@ KA-BLR-VNG-KA-BLR-DME-F1,VNG,DME,3-14-8,1-14-8,3-13-8,1-13-8,null,null,3-11-21,1
 KA-BLR-AID-KA-BLR-DME-F1,DME,AID,2-14-8,2-14-8,2-13-8,2-13-8,null,null,2-11-21,2-11-21,2-14-2,2-14-2
 KA-BLR-AID-KA-BLR-HLY-F1,AID,HLY,1-7-8,2-14-8,1-8-8,2-13-8,null,null,1-9-21,2-11-21,1-7-2,2-14-2
 KA-BLR-BID-KA-BLR-HLY-F1,BID,HLY,2-14-8,1-14-8,2-13-8,1-13-8,null,null,2-11-21,1-11-21,2-14-2,1-14-2
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
-,,,,,,,,,,,,
